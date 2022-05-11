@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AlexanderZharyuk, junior FullStack Developer.
-- 🌱 I’m currently learning Python, Javascript, VueJS
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: alexander.zharyuk@gmail.com
