@@ -1,10 +1,12 @@
 ### About Me
-- 👋 Hi, I’m @AlexanderZharyuk, Python Developer.
-- 🌱 I’m currently programming on Python!
-- 📝 How to reach me: alexander.zharyuk@gmail.com
+👋 Hi, I’m AlexanderZharyuk, Python Developer, currently living in Saint-Petersburg, Russia. Looking for job right now, if you interested my projects - contact me!
+
+📝 Contacts: 
+1. Gmail: [alexander.zharyuk@gmail.com](alexander.zharyuk@gmail.com)
+2. Telegram: [@rFizique](https://t.me/rFizique)
 
 
-### My technology stack:
+### My technology stack
 - Python 3
 - Django
 - Redis
