@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AlexanderZharyuk, junior Python Developer.
-- 🌱 I’m currently learning Python!
+- 👋 Hi, I’m @AlexanderZharyuk, Python Developer.
+- 🌱 I’m currently programming on Python!
 - 📫 How to reach me: alexander.zharyuk@gmail.com
