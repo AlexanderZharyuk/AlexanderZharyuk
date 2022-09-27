@@ -1,5 +1,6 @@
 ### About Me
-👋 Hi, I’m AlexanderZharyuk, Python Developer, currently living in Saint-Petersburg, Russia. Looking for job right now, if you interested my projects - contact me!
+👋 Hi, I’m AlexanderZharyuk, Python Developer, currently living in Eindhoven, Netherlands. 
+Looking for job right now, if you interested my projects - contact me!
 
 📝 Contacts: 
 1. Gmail: [alexander.zharyuk@gmail.com](alexander.zharyuk@gmail.com)
