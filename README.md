@@ -8,7 +8,7 @@ Looking for job right now, if you interested my projects - contact me!
 2. Telegram: [@rFizique](https://t.me/rFizique)
 
 
-### My technology stack
+### My stack
 - Python 3
 - Django
 - Redis
