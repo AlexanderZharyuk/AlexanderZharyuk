@@ -1,19 +1,15 @@
-### About Me
-👋 Hi, I’m AlexanderZharyuk, Python Developer, currently living in Eindhoven, Netherlands. 
 
-Looking for job right now, if you interested my projects - contact me!
+```python
+class PythonDeveloper:
 
-📝 Contacts: 
-1. Gmail: [alexander.zharyuk@gmail.com](alexander.zharyuk@gmail.com)
-2. Telegram: [@rFizique](https://t.me/rFizique)
-
-
-### My stack
-- Python 3
-- Django
-- Redis
-- Telegram Bots
-- PostgreSQL
-- REST API
-
-🚀 You can see my projects [here](https://github.com/AlexanderZharyuk?tab=repositories)!
+    def __init__(self):
+        self.name = "Alexandr Jariuc"
+        self.age = 26
+        self.skills = ["Python", "JavaScript Basic", "HTML/CSS"]
+        self.databases = ["PostgreSQL", "Redis"]
+        self.libraries = ["Django", "PythonTelegramBot", "Pytest", "DRF"]
+        self.misc = ["Git", "Docker", "Linux"]
+        self.currently_looking_for_job = True
+        self.telegram = "@rFizique"
+        self.email = "alexander.zharyuk@gmail.com"
+```
