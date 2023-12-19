@@ -4,10 +4,11 @@ class PythonDeveloper:
 
     def __init__(self):
         self.name = "Alexandr Jariuc"
-        self.age = 26
-        self.skills = ["Python", "JavaScript Basic", "HTML/CSS"]
-        self.databases = ["PostgreSQL", "Redis", "MongoDB"]
-        self.libraries = ["Django", "PythonTelegramBot", "Pytest", "DRF", "Flask", "Asyncio"]
+        self.age = 27
+        self.programming_languages = ["Python", "JavaScript"]
+        self.languages = ["RU", "EN"]
+        self.databases = ["PostgreSQL", "ClickHouse", "MongoDB", "ElasticSearch", "Redis"]
+        self.frameworks = ["Django", "FastAPI", "Flask", "DRF"]
         self.misc = ["Git", "Docker", "Linux"]
         self.currently_looking_for_job = False
         self.telegram = "@rFizique"
