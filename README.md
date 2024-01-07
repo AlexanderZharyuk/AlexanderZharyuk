@@ -11,6 +11,9 @@ class PythonDeveloper:
         self.frameworks = ["Django", "FastAPI", "Flask", "DRF"]
         self.misc = ["Git", "Docker", "Linux"]
         self.currently_looking_for_job = False
-        self.telegram = "@rFizique"
-        self.email = "alexander.zharyuk@gmail.com"
+        self.socials = {
+            "mail": "alexander.zharyuk@gmail.com",
+            "telegram": "@rFizique",
+            "linkedin": "https://www.linkedin.com/in/alexandr-jariuc-aa0b86235/"
+        }
 ```
