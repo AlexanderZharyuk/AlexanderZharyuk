@@ -8,6 +8,7 @@ class PythonDeveloper:
         self.programming_languages = ["Python", "JavaScript"]
         self.languages = ["RU", "EN"]
         self.databases = ["PostgreSQL", "ClickHouse", "MongoDB", "ElasticSearch", "Redis"]
+        self.brokers = ["Kafka", "RabbitMQ"]
         self.frameworks = ["Django", "FastAPI", "Flask", "DRF"]
         self.misc = ["Git", "Docker", "Linux"]
         self.currently_looking_for_job = False
